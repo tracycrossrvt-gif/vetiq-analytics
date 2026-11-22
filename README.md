@@ -10,7 +10,7 @@ VetIQ Analytics is a responsive React application that helps veterinary practice
 
 My experience leading veterinary hospital operations showed me how difficult it can be to turn separate reports and metrics into actionable decisions. I designed VetIQ around the questions practice leaders routinely ask: Are we meeting our goals? Where is revenue changing? Which performance indicators deserve attention?
 
-The aim is to make those questions easier to explore through a clear interface—not to replace professional judgment.
+The aim is to make those questions easier to explore through a clear interface, not to replace professional judgment.
 
 ## Features
 
@@ -38,22 +38,13 @@ The aim is to make those questions easier to explore through a clear interface�
 
 **Scope:** This is a portfolio application with browser-local data, not a production integration with practice-management software. Forecasts, scores, and recommendations are decision-support features and should be interpreted in context.
 
-## Screenshots
-
-### Desktop
-![VetIQ dashboard at 1440px](./screenshots/dashboard1440px.png)
-
-### Tablet
-![VetIQ dashboard at 1024px](./screenshots/dashboard1024px.png)
-![VetIQ dashboard at 768px](./screenshots/dashboard768px.png)
-
-### Mobile
-![VetIQ dashboard at 430px](./screenshots/dashboard430px.png)
-![VetIQ dashboard at 390px](./screenshots/dashboard390px.png)
-
 ## Run locally
 
+Want to see it in action? Clone the repo and start the dev server:
+
 ```bash
+git clone https://github.com/tracycrossrvt-gif/vetiq-analytics.git
+cd vetiq-analytics
 npm install
 npm run dev
 ```
@@ -75,6 +66,6 @@ These are potential extensions, not features claimed to be complete.
 
 ## About the developer
 
-**Tracy Cross** — Software Developer with a background in veterinary operations and business leadership.
+**Tracy Cross** - Product Manager with a background in corporate veterinary hospital operations and business leadership.
 
 [Portfolio](https://dev-portfolio-woad-seven.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tracy-cross-dev/) · [GitHub](https://github.com/tracycrossrvt-gif)
