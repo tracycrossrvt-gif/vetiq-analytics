@@ -38,22 +38,13 @@ The aim is to make those questions easier to explore through a clear interfaceâ€
 
 **Scope:** This is a portfolio application with browser-local data, not a production integration with practice-management software. Forecasts, scores, and recommendations are decision-support features and should be interpreted in context.
 
-## Screenshots
-
-### Desktop
-![VetIQ dashboard at 1440px](./screenshots/dashboard1440px.png)
-
-### Tablet
-![VetIQ dashboard at 1024px](./screenshots/dashboard1024px.png)
-![VetIQ dashboard at 768px](./screenshots/dashboard768px.png)
-
-### Mobile
-![VetIQ dashboard at 430px](./screenshots/dashboard430px.png)
-![VetIQ dashboard at 390px](./screenshots/dashboard390px.png)
-
 ## Run locally
 
+Want to see it in action? Clone the repo and start the dev server:
+
 ```bash
+git clone https://github.com/tracycrossrvt-gif/vetiq-analytics.git
+cd vetiq-analytics
 npm install
 npm run dev
 ```
