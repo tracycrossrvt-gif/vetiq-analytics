@@ -10,7 +10,7 @@ VetIQ Analytics is a responsive React application that helps veterinary practice
 
 My experience leading veterinary hospital operations showed me how difficult it can be to turn separate reports and metrics into actionable decisions. I designed VetIQ around the questions practice leaders routinely ask: Are we meeting our goals? Where is revenue changing? Which performance indicators deserve attention?
 
-The aim is to make those questions easier to explore through a clear interface—not to replace professional judgment.
+The aim is to make those questions easier to explore through a clear interface, not to replace professional judgment.
 
 ## Features
 
@@ -66,6 +66,6 @@ These are potential extensions, not features claimed to be complete.
 
 ## About the developer
 
-**Tracy Cross** — Software Developer with a background in veterinary operations and business leadership.
+**Tracy Cross** - Product Manager with a background in corporate veterinary hospital operations and business leadership.
 
 [Portfolio](https://dev-portfolio-woad-seven.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tracy-cross-dev/) · [GitHub](https://github.com/tracycrossrvt-gif)
